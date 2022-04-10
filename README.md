@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emrekizil
 - 👀 I’m interested in web development and mobile application development
-- 🌱 I’m currently learning javascript and flutter
 - 💞️ I’m looking to collaborate on developing applications
 - 📫 How to reach me linkedin.com/in/emrekizil
 
