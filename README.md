@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @emrekizil
-- 👀 I’m interested in web development and mobile application development
-- 💞️ I’m looking to collaborate on developing applications
-- 📫 How to reach me linkedin.com/in/emrekizil
+<h3 align="center">Hi, I’m Emre Kızıl</h3>
+
 
 <!---
 emrekizil/emrekizil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
