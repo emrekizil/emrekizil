@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emre</h1>
-<h3 align="center">Hi, I am Emre, an enthusiastic full-stack developer using Javascript (ReactJS, NodeJS), and MongoDB. I'm also interested in the android ecosystem so I learn Kotlin these days.</h3>
+<h3 align="center">Hi, I am Emre, an enthusiastic Android Developer developing native applications. I also have experience with full-stack techs using Javascript and MongoDB</h3>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
