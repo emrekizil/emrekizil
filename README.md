@@ -17,11 +17,6 @@
 <a href="https://twitter.com/_emrekizil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_emrekizil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emrekizil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrekizil" height="30" width="40" /></a>
 </p>
-</br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekizil&count_private=true&show_icons=true&theme=highcontrast)
-
-
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrekizil&show_icons=true&locale=en" alt="emrekizil" /></p>
 emrekizil/emrekizil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
